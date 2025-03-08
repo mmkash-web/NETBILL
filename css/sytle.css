@@ -234,7 +234,4 @@ footer a {
     .onboarding .onboarding-card {
         flex: 1 1 calc(100% - 20px);
         max-width: calc(100% - 20px);
-    }
-
-    header .container {
        
